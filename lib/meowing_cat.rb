@@ -1,1 +1,7 @@
-## code your solution here. 
+class Cat
+  def cat=(cats)
+    @cats = cat
+  end
+  
+  
+end
