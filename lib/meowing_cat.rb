@@ -1,7 +1,4 @@
 class Cat
-  def cat=(cats)
-    @cats = cat
-  end
-
+  attr_accessor :name
 
 end
